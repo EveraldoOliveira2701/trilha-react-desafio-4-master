@@ -26,8 +26,6 @@ const Login = () => {
       defaultValues,
       reValidateMode: "onChange"
   });
-  console.log({ isValid });
-  
 
   return (
     <Container>
